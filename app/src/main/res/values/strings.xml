@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App_5</string>
+    <string name="name">Тут будет имя</string>
+    <string name="work">Тут будет род деятельности</string>
+</resources>
